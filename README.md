@@ -27,3 +27,4 @@ The PCB (P/N: 23244-99001 REV: ab) controlling the motor uses 50A MOSFETs.
 ![Side/Connector](/images/2.jpg)
 ![Front/Axle](/images/3.jpg)
 ![Back/PCB](/images/4.jpg)
+![Connections](/images/5.jpg)
